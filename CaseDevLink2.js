@@ -59,7 +59,7 @@ if (segundaPraca) {
     
     console.log("Valor 2º praça:", valorSegundaPraca);
 } else {
-    console.log("Não encontrado dentro do oitavo elemento.");
+    console.log("Não encontrado.");
 }
 
 
